@@ -1,2 +1,2 @@
 # Django-Udemy
-I followed the Python course's instructions on Udemy when I wrote these codes.
+I followed the Django course's instructions on Udemy when I wrote these codes.
